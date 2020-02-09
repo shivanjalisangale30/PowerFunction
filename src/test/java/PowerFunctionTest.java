@@ -34,4 +34,10 @@ public class PowerFunctionTest {
         int result = powerFunction.calculator(5, -5);
         Assert.assertEquals(1, result);
     }
+
+    @Test
+    public void givenBothValuesNegative_WhenPerformOperation_ShouldReturnOne() {
+        int result = powerFunction.calculator(-2, -2);
+        Assert.assertEquals(1, result);
+    }
 }
