@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PowerFunctionTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-02-09T02:39:15" hostname="admin1-HP-EliteBook-Folio-9480m" time="0.004">
+<testsuite name="PowerFunctionTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-02-09T09:07:48" hostname="admin1-HP-EliteBook-Folio-9480m" time="0.004">
   <properties/>
   <testcase name="givenExponentIntegerBaseZero_WhenPerformOpeartion_ShouldReturnZero" classname="PowerFunctionTest" time="0.001"/>
   <testcase name="givenTwoValuesInInteger_WhenPerformOperation_ShouldReturnResult" classname="PowerFunctionTest" time="0.0"/>
-  <testcase name="givenExponentZeroBaseIntegerValue_WhenPerformOperation_ShouldReturnOne" classname="PowerFunctionTest" time="0.001"/>
+  <testcase name="givenExponentZeroBaseIntegerValue_WhenPerformOperation_ShouldReturnOne" classname="PowerFunctionTest" time="0.0"/>
   <testcase name="givenExponentIntegeBaseNegative_WhenPerformOperation_ShouldReturnResult" classname="PowerFunctionTest" time="0.0"/>
+  <testcase name="givenBothValuesNegative_WhenPerformOperation_ShouldReturnOne" classname="PowerFunctionTest" time="0.0"/>
   <testcase name="givenExponentNegativeBaseInteger_WhenPerformOpeartion_ShouldReturnOne" classname="PowerFunctionTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

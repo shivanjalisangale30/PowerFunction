@@ -40,4 +40,6 @@ public class PowerFunctionTest {
         int result = powerFunction.calculator(-2, -2);
         Assert.assertEquals(1, result);
     }
+
+
 }
